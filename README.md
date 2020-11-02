@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 
 <iframe 
-  src="https://public.tableau.com/views/MyFirstPublic_16040241194940/Sheet1?:language=en&:display_count=y&:origin=viz_share_link?:embed=y"
+  src="https://public.tableau.com/views/MyFirstPublic_16040241194940/Sheet1?:language=en&:display_count=y&:origin=viz_share_link:embed=y"
   width="645" 
   height="955"
 ></iframe>  
